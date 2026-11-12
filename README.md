@@ -4,7 +4,7 @@ React frontend for visualizing AI-driven demand forecasts and inventory optimiza
 recommendations, built on top of a FastAPI + XGBoost/Prophet backend.
 
 See the backend repo for the full ML pipeline, methodology, and results:
-[demand-forecast-backend](https://github.com/karunakarsharma356/demand-forecast-backend)
+[demand-forecast-backend](https://github.com/dikshaverma469/demand-forecast-backend)
 
 ## Features
 
